@@ -6,7 +6,7 @@ export default function Contact() {
  
   return (
     <section id="contact" className=" relative">
-       <div className="flex flex-col justify-center items-center w-full ">
+       <div data-aos="fade-up-right"  data-aos-duration="2000"className="flex flex-col justify-center items-center w-full ">
           <UsersIcon className="mx-auto inline-block w-10 mb-4" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white ">
        Contact Me
