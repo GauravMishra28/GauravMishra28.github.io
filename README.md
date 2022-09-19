@@ -1,5 +1,5 @@
 # My Portfolio
 
-## This is my Portfolio made with the help of React and TypeScript.
+I have made this Portfolio with the help of React and TailWind. 
 
 
